@@ -120,5 +120,51 @@
       </div>
     </div>
   </div>
+
+  <div class="mt-4 px-2 text-center">
+    <div class="text-base">
+      <div class="text-xl font-semibold">Find our Barbershop</div>
+      <div class="mt-2">
+        <div class="">Gentlemens Barber</div>
+        <div class="">Kurtweg 23</div>
+        <div class="">39221 Bremen</div>
+      </div>
+    </div>
+    <div class="mt-2 text-primary">(+49)01239123</div>
+  </div>
+
+  <div class="mt-2 px-2 text-center">
+    <div class="text-xl font-semibold ">Opening Hours</div>
+    <div class="flex flex-col w-64 mx-auto mt-2">
+      <div class="flex justify-between space-x-2">
+        <div class="">Monday</div>
+        <div class="">9:00 AM — 5:00 PM</div>
+      </div>
+      <div class="flex justify-between space-x-2">
+        <div class="">Tuesday</div>
+        <div class="">10:00 AM — 5:00 PM</div>
+      </div>
+      <div class="flex justify-between space-x-2">
+        <div class="">Wednesday</div>
+        <div class="text-red-800 font-bold">CLOSED</div>
+      </div>
+      <div class="flex justify-between space-x-2">
+        <div class="">Thursday</div>
+        <div class="text-red-800 font-bold">CLOSED</div>
+      </div>
+      <div class="flex justify-between space-x-2">
+        <div class="">Friday</div>
+        <div class="">9:00 AM — 5:00 PM</div>
+      </div>
+      <div class="flex justify-between space-x-2">
+        <div class="">Saturday</div>
+        <div class="">9:00 AM — 5:00 PM</div>
+      </div>
+      <div class="flex justify-between space-x-2">
+        <div class="">Sunday</div>
+        <div class="">9:00 AM — 5:00 PM</div>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
