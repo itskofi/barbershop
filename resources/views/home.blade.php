@@ -92,7 +92,9 @@
         <div class="">Hair and beard</div>
         <div class="text-secondary font-semibold">35€</div>
       </div>
- 
+    </div>
+    <div class="flex w-full justify-center mt-2">
+      <button class="px-2 rounded-lg font-semibold uppercase text-black text-sm bg-secondary">Book an appointment</button>
     </div>
   </div>
 
