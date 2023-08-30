@@ -68,5 +68,36 @@
       </div>
     </div>
   </div>
+
+  <div class="mt-4 px-4">
+    <div class="text-xl font-semibold text-center">Services</div>
+    <div class="flex flex-col divide-dotted divide-y rounded-lg shadow-lg bg-primary text-white p-4">
+      <div class="flex justify-between">
+        <div class="">Haircut</div>
+        <div class="text-secondary font-semibold">25€</div>
+      </div>
+      <div class="flex justify-between">
+        <div class="">Hair Trim</div>
+        <div class="text-secondary font-semibold">10€</div>
+      </div>
+      <div class="flex justify-between">
+        <div class="">Beard</div>
+        <div class="text-secondary font-semibold">20€</div>
+      </div>
+      <div class="flex justify-between">
+        <div class="">Beard Trim</div>
+        <div class="text-secondary font-semibold">12€</div>
+      </div>
+      <div class="flex justify-between">
+        <div class="">Hair and beard</div>
+        <div class="text-secondary font-semibold">35€</div>
+      </div>
+ 
+    </div>
+  </div>
+
+  <div class="mt-4 px-2">
+    
+  </div>
 </body>
 </html>
