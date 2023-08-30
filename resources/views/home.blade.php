@@ -41,9 +41,9 @@
         <div class="">
           <img class="rounded-lg object-cover h-48" src="{{ url('images/barber-1.jpg') }}" alt="">
         </div>
-        <div class="">
-          <div class="">John Elfa</div>
-          <div class="text-gray-400 text-sm">Specialized in Mens Hair</div>
+        <div class="text-center ">
+          <div class="text-base">John Elfa</div>
+          <div class="text-gray-400 text-xs">Specialized in Mens Hair</div>
         </div>
       </div>
 
@@ -51,9 +51,9 @@
         <div class="">
           <img class="rounded-lg object-cover h-48" src="{{ url('images/barber-2.webp') }}" alt="">
         </div>
-        <div class="">
-          <div class="">Daniel Elfa</div>
-          <div class="text-gray-400 text-sm">Specialized in Womens Hair</div>
+        <div class="text-center ">
+          <div class="text-base">Daniel Elfa</div>
+          <div class="text-gray-400 text-xs">Specialized in Womens Hair</div>
         </div>
       </div>
 
@@ -61,15 +61,15 @@
         <div class="">
           <img class="rounded-lg object-cover h-48" src="{{ url('images/barber-3.jpg') }}" alt="">
         </div>
-        <div class="">
-          <div class="">Alex Storms</div>
-          <div class="text-gray-400 text-sm">Specialized in Afro Hair</div>
+        <div class="text-center">
+          <div class="text-base">Alex Storms</div>
+          <div class="text-gray-400 text-xs">Specialized in Afro Hair</div>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="mt-4 px-4">
+  <div class="mt-4 px-2">
     <div class="text-xl font-semibold text-center">Services</div>
     <div class="flex flex-col divide-dotted divide-y rounded-lg shadow-lg bg-primary text-white p-4">
       <div class="flex justify-between">
@@ -97,7 +97,26 @@
   </div>
 
   <div class="mt-4 px-2">
-    
+    <div class="">
+      <div class="text-xl font-semibold text-center">Looks</div>
+    </div>
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+      <div>
+          <img class="h-auto max-w-full rounded-lg" src="{{ url('images/haircut-1.jpg')}}" alt="">
+      </div>
+      <div>
+          <img class="h-auto max-w-full rounded-lg" src="{{ url('images/haircut-2.jpg')}}" alt="">
+      </div>
+      <div>
+          <img class="h-auto max-w-full rounded-lg" src="{{ url('images/haircut-3.jpg')}}" alt="">
+      </div>
+      <div>
+          <img class="h-auto max-w-full rounded-lg" src="{{ url('images/haircut-4.jpg')}}" alt="">
+      </div>
+      <div>
+          <img class="h-auto max-w-full rounded-lg" src="{{ url('images/haircut-6.webp')}}" alt="">
+      </div>
+    </div>
   </div>
 </body>
 </html>
