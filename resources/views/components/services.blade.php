@@ -22,8 +22,7 @@
           <div class="text-secondary font-semibold">35€</div>
       </div>
   </div>
-  <div class="flex w-full justify-center sm:pt-4 ">
-      <button class="px-2 rounded-lg font-semibold uppercase text-black text-sm bg-secondary">Book an
-          appointment</button>
+  <div class="flex w-full justify-center pt-4 ">
+      <x-button value="Book an appointment"/>
   </div>
 </div>
