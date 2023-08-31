@@ -8,37 +8,37 @@
 </head>
 <body>
 
-  <div class="relative bg-fixed h-64 sm:h-72">
+  <div class="relative bg-fixed h-64 sm:h-72 md:h-96">
       <img class="object-cover w-full h-full " src="{{ url('images/barber-chair-2.jpg') }}" alt="">
       <div class="absolute top-1/4 right-1/3">
         <div class="inline text-white shadow-xl text-2xl sm:text-3xl">Gentlemens Barber</div>
       </div>
   </div>
 
-  <div class="py-6 px-2 flex">
+  <div class="py-6 px-2 flex lg:justify-between">
     <div class="px-2 w-1/2 my-auto text-xs sm:text-base sm:px-6 sm:flex sm:flex-col sm:space-y-1">
-      <div class="text-primary font-bold uppercase">Your local Family</div>
-      <div class="text-xl sm:text-2xl font-semibold">We are</div>
+      <div class="text-primary sm:text-xs font-bold uppercase">Your local Family</div>
+      <div class="text-xl sm:text-xl font-semibold">We are</div>
       <div class="mt-2">We are here to give you the best haircut you can imagine</div>
     </div>
-    <div class="w-1/2">
+    <div class="w-1/2 lg:w-5/12">
       <img class="rounded-lg" src="{{ url('images/barber-team.jpg') }}" alt="">
     </div>
   </div>
 
-  <div class="py-6 px-2 flex flex-row-reverse ">
+  <div class="py-6 px-2 flex flex-row-reverse lg:justify-between">
     <div class="w-1/2 my-auto px-2 text-xs sm:text-base sm:px-6 sm:flex sm:flex-col sm:space-y-1">
-      <div class="text-primary font-bold uppercase tracking">Renew your look</div>
-      <div class="text-xl sm:text-2xl font-semibold">You get the best</div>
+      <div class="text-primary sm:text-xs font-bold uppercase tracking">Renew your look</div>
+      <div class="text-xl sm:text-xl font-semibold">You get the best</div>
       <div class="mt-2">With over a decade experience you will get the best experience</div>
     </div>
-    <div class="w-1/2">
+    <div class="w-1/2 lg:w-5/12">
       <img class="rounded-lg" src="{{ url('images/barber-team.jpg') }}" alt="">
     </div>
   </div>
 
   <div class="py-6">
-    <div class="text-xl font-semibold text-center sm:text-2xl">The Team</div>
+    <div class="text-xl font-semibold text-center sm:text-xl">The Team</div>
     <div class="flex sm:pt-4">
       <div class="px-2 flex flex-col w-1/3">
         <div class="sm:mx-auto">
