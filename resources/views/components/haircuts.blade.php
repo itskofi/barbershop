@@ -1,6 +1,6 @@
 <div class="py-6 px-2">
   <div class="">
-      <div class="text-xl font-semibold text-center">Looks</div>
+      <div class="text-xl lg:text-3xl font-semibold text-center">Looks</div>
   </div>
   <div class="grid grid-cols-2 md:grid-cols-3 gap-2 sm:pt-4">
       <div class="mx-auto">

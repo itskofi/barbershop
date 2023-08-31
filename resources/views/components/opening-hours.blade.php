@@ -1,6 +1,6 @@
 <div class="mt-2 py-6 px-2 text-center bg-gray-900 mx-2 rounded-lg text-white">
-  <div class="text-xl font-semibold ">Opening Hours</div>
-  <div class="flex flex-col w-64 mx-auto mt-2 text-sm">
+  <div class="text-xl lg:text-3xl font-semibold ">Opening Hours</div>
+  <div class="flex flex-col w-64 mx-auto mt-2 text-sm lg:text-lg">
       <div class="flex justify-between space-x-2">
           <div class="">Monday</div>
           <div class="">9:00 AM — 5:00 PM</div>
