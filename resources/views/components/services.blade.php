@@ -23,6 +23,6 @@
       </div>
   </div>
   <div class="flex w-full justify-center pt-4 ">
-      <x-button value="Book an appointment"/>
+      <x-button value="Book Now"/>
   </div>
 </div>
