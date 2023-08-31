@@ -8,7 +8,7 @@
     @vite('resources/css/app.css')
 </head>
 
-<body>
+<body class="max-w-5xl mx-auto">
 
     <div class="relative bg-fixed h-64 sm:h-72 md:h-96">
         <img class="object-cover w-full h-full " src="{{ url('images/barber-chair-2.jpg') }}" alt="">
