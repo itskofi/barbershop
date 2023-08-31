@@ -15,7 +15,7 @@
       </div>
   </div>
 
-  <div class="mt-4 px-2 flex">
+  <div class="mt-4 py-6 px-2 flex">
     <div class="px-2 w-1/2 my-auto text-xs sm:text-xl">
       <div class="text-primary font-bold uppercase">Your local Family</div>
       <div class="text-xl sm:text-4xl font-semibold">We are</div>
@@ -26,7 +26,7 @@
     </div>
   </div>
 
-  <div class="mt-4 px-2 flex flex-row-reverse ">
+  <div class="mt-4 py-6 px-2 flex flex-row-reverse ">
     <div class="w-1/2 my-auto px-2 text-xs sm:text-xl">
       <div class="text-primary font-bold uppercase tracking">Renew your look</div>
       <div class="text-xl sm:text-4xl font-semibold">You get the best</div>
@@ -37,7 +37,7 @@
     </div>
   </div>
 
-  <div class="mt-4">
+  <div class="mt-4 py-6">
     <div class="text-xl font-semibold text-center">The Team</div>
     <div class="mt-4 flex">
       <div class="px-2 flex flex-col w-1/3">
@@ -72,7 +72,7 @@
     </div>
   </div>
 
-  <div class="mt-4 px-2">
+  <div class="mt-4 py-6 px-2">
     <div class="text-xl font-semibold text-center">Services</div>
     <div class="flex flex-col divide-dotted divide-y rounded-lg shadow-lg bg-primary text-white p-4">
       <div class="flex justify-between">
@@ -101,7 +101,7 @@
     </div>
   </div>
 
-  <div class="mt-4 px-2">
+  <div class="mt-4 py-6 px-2">
     <div class="">
       <div class="text-xl font-semibold text-center">Looks</div>
     </div>
@@ -124,7 +124,7 @@
     </div>
   </div>
 
-  <div class="mt-4 px-2 text-center">
+  <div class="mt-4 py-6 px-2 text-center">
     <div class="text-base">
       <div class="text-xl font-semibold">Find our Barbershop</div>
       <div class="mt-2">
@@ -136,7 +136,7 @@
     <div class="mt-2 text-primary">(+49)01239123</div>
   </div>
 
-  <div class="mt-2 px-2 text-center bg-gray-900 mx-2 rounded-lg text-white">
+  <div class="mt-2 py-6 px-2 text-center bg-gray-900 mx-2 rounded-lg text-white">
     <div class="text-xl font-semibold ">Opening Hours</div>
     <div class="flex flex-col w-64 mx-auto mt-2 text-sm">
       <div class="flex justify-between space-x-2">
