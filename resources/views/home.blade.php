@@ -136,9 +136,9 @@
     <div class="mt-2 text-primary">(+49)01239123</div>
   </div>
 
-  <div class="mt-2 px-2 text-center">
+  <div class="mt-2 px-2 text-center bg-gray-900 mx-2 rounded-lg text-white">
     <div class="text-xl font-semibold ">Opening Hours</div>
-    <div class="flex flex-col w-64 mx-auto mt-2">
+    <div class="flex flex-col w-64 mx-auto mt-2 text-sm">
       <div class="flex justify-between space-x-2">
         <div class="">Monday</div>
         <div class="">9:00 AM — 5:00 PM</div>
